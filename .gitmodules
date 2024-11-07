@@ -1,0 +1,6 @@
+[submodule "3x-ui"]
+	path = 3x-ui
+	url = https://github.com/MHSanaei/3x-ui.git
+[submodule "Xray-core"]
+	path = Xray-core
+	url = https://github.com/XTLS/Xray-core.git
